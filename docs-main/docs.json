@@ -139,6 +139,14 @@
             ]
           },
           {
+            "group": "CIP Registry",
+            "hidden": true,
+            "searchable": true,
+            "pages": [
+              "ai-context/cip-registry"
+            ]
+          },
+          {
             "group": "Resources",
             "pages": [
               "shared/research",
